@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI 활용 연구소</title>
+  <link>https://www.buupstory.kr/</link>
+  <description>AI를 더 쉽고 실용적으로 활용하는 방법을 공유합니다.</description>
+  <language>ko</language>
+  <item>
+    <title>요즘 AI 입문자에게 먼저 필요한 것은 도구 목록이 아닙니다</title>
+    <link>https://www.buupstory.kr/columns/why-ai-basic-skills-matter/</link>
+    <guid>https://www.buupstory.kr/columns/why-ai-basic-skills-matter/</guid>
+    <description>새로운 AI 서비스가 계속 등장하는 환경에서 입문자가 먼저 익혀야 할 기본기를 운영자 관점에서 정리합니다.</description>
+    <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>ChatGPT 질문을 업무용으로 바꾸는 5단계 프레임워크</title>
+    <link>https://www.buupstory.kr/posts/chatgpt-question-framework/</link>
+    <guid>https://www.buupstory.kr/posts/chatgpt-question-framework/</guid>
+    <description>입문자가 가장 먼저 익혀야 할 질문 구조를 목적, 맥락, 조건, 출력 형식, 검토 기준으로 나누어 설명합니다.</description>
+    <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>회의 내용을 AI로 정리할 때 빠뜨리기 쉬운 기준</title>
+    <link>https://www.buupstory.kr/posts/ai-meeting-summary/</link>
+    <guid>https://www.buupstory.kr/posts/ai-meeting-summary/</guid>
+    <description>회의록 자동 요약을 쓸 때 단순 요약을 넘어 실행 가능한 회의 기록으로 만드는 기준을 설명합니다.</description>
+    <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI 코딩 도구를 코드 리뷰 전에 활용하는 방법</title>
+    <link>https://www.buupstory.kr/posts/coding-assistant-review/</link>
+    <guid>https://www.buupstory.kr/posts/coding-assistant-review/</guid>
+    <description>AI 코딩 도구로 변경 요약, 테스트 관점, 위험 지점을 먼저 점검하는 방법을 설명합니다.</description>
+    <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>개인 AI 작업 공간을 정리하는 방법</title>
+    <link>https://www.buupstory.kr/posts/personal-ai-workspace/</link>
+    <guid>https://www.buupstory.kr/posts/personal-ai-workspace/</guid>
+    <description>AI를 자주 쓰는 사람이 대화, 프롬프트, 결과물, 참고 자료를 체계적으로 정리하는 기본 구조를 소개합니다.</description>
+    <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI 자동화는 거창한 시스템보다 작은 반복 업무에서 시작하는 편이 좋습니다</title>
+    <link>https://www.buupstory.kr/columns/small-automation-first/</link>
+    <guid>https://www.buupstory.kr/columns/small-automation-first/</guid>
+    <description>AI 자동화를 시작할 때 큰 시스템보다 작은 반복 업무를 먼저 고르는 이유와 판단 기준을 정리합니다.</description>
+    <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI 서비스를 처음 써볼 때 평가해야 할 7가지</title>
+    <link>https://www.buupstory.kr/posts/ai-service-evaluation/</link>
+    <guid>https://www.buupstory.kr/posts/ai-service-evaluation/</guid>
+    <description>새로운 AI 서비스를 검토할 때 목적, 데이터 처리, 비용, 품질, 연동성, 지원, 내보내기 가능성을 확인하는 방법입니다.</description>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>ChatGPT로 업무 문서 초안을 만들 때 필요한 입력 정보</title>
+    <link>https://www.buupstory.kr/posts/chatgpt-document-draft/</link>
+    <guid>https://www.buupstory.kr/posts/chatgpt-document-draft/</guid>
+    <description>AI에게 문서 초안을 맡기기 전에 준비해야 할 독자, 목적, 자료, 금지 표현, 검토 기준을 정리합니다.</description>
+    <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>작은 업무 자동화를 시작하기 전에 정리할 것들</title>
+    <link>https://www.buupstory.kr/posts/workflow-small-automation/</link>
+    <guid>https://www.buupstory.kr/posts/workflow-small-automation/</guid>
+    <description>AI 자동화를 처음 도입할 때 업무 흐름, 입력 자료, 승인 단계, 예외 처리를 점검하는 방법을 소개합니다.</description>
+    <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI가 만든 결과물을 게시하기 전에 확인해야 할 최소 기준</title>
+    <link>https://www.buupstory.kr/columns/review-before-publish/</link>
+    <guid>https://www.buupstory.kr/columns/review-before-publish/</guid>
+    <description>AI 결과물을 외부에 공개하기 전 확인해야 할 사실, 출처, 톤, 독자 영향 기준을 운영자 메모 형식으로 정리합니다.</description>
+    <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI에게 디버깅을 맡기기 전에 정리해야 할 정보</title>
+    <link>https://www.buupstory.kr/posts/ai-debugging-checklist/</link>
+    <guid>https://www.buupstory.kr/posts/ai-debugging-checklist/</guid>
+    <description>AI 디버깅의 정확도를 높이기 위해 필요한 최소 정보와 질문 방식을 체크리스트로 안내합니다.</description>
+    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>프롬프트를 팀에서 함께 관리하는 간단한 루틴</title>
+    <link>https://www.buupstory.kr/posts/prompt-review-routine/</link>
+    <guid>https://www.buupstory.kr/posts/prompt-review-routine/</guid>
+    <description>자주 쓰는 프롬프트를 기록, 검토, 업데이트하는 작은 운영 루틴을 소개합니다.</description>
+    <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>이메일 답변 초안을 AI로 만들 때의 안전한 운영 방식</title>
+    <link>https://www.buupstory.kr/posts/email-reply-automation/</link>
+    <guid>https://www.buupstory.kr/posts/email-reply-automation/</guid>
+    <description>이메일 자동화에서 톤, 사실 확인, 민감 정보, 최종 승인 흐름을 관리하는 방법을 정리합니다.</description>
+    <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI로 공부할 때 이해도를 높이는 질문 순서</title>
+    <link>https://www.buupstory.kr/posts/study-with-ai/</link>
+    <guid>https://www.buupstory.kr/posts/study-with-ai/</guid>
+    <description>대학생과 직장인 학습자를 위해 AI를 튜터처럼 활용하는 질문 흐름과 검토 기준을 안내합니다.</description>
+    <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI 글쓰기 도구를 고를 때 확인할 사용 기준</title>
+    <link>https://www.buupstory.kr/posts/ai-writing-tool-check/</link>
+    <guid>https://www.buupstory.kr/posts/ai-writing-tool-check/</guid>
+    <description>AI 글쓰기 도구를 업무와 콘텐츠 제작에 쓸 때 필요한 편집 기능, 출처 확인, 톤 관리 기준을 다룹니다.</description>
+    <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>반복 보고서를 AI와 함께 만드는 템플릿 설계법</title>
+    <link>https://www.buupstory.kr/posts/ai-report-template/</link>
+    <guid>https://www.buupstory.kr/posts/ai-report-template/</guid>
+    <description>주간 보고, 캠페인 리뷰, 운영 리포트처럼 반복되는 문서를 AI로 정리할 때 필요한 템플릿 기준을 다룹니다.</description>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>개발 문서를 AI와 함께 업데이트하는 현실적인 방법</title>
+    <link>https://www.buupstory.kr/posts/dev-docs-with-ai/</link>
+    <guid>https://www.buupstory.kr/posts/dev-docs-with-ai/</guid>
+    <description>개발 문서가 코드와 멀어지지 않도록 AI를 활용해 변경 요약과 사용 예시를 점검하는 방법을 소개합니다.</description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI를 활용한 하루 업무 정리 루틴</title>
+    <link>https://www.buupstory.kr/posts/focus-routine-with-ai/</link>
+    <guid>https://www.buupstory.kr/posts/focus-routine-with-ai/</guid>
+    <description>AI를 개인 비서처럼 활용해 오늘 할 일, 회의 준비, 마감 정리, 다음 행동을 관리하는 방법을 소개합니다.</description>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>개발자가 AI 도구를 고를 때 확인할 기준</title>
+    <link>https://www.buupstory.kr/posts/tool-choice-for-developers/</link>
+    <guid>https://www.buupstory.kr/posts/tool-choice-for-developers/</guid>
+    <description>AI 개발 도구를 선택할 때 코드 품질, 편집기 연동, 데이터 처리, 비용, 팀 규칙을 점검하는 기준을 정리합니다.</description>
+    <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>AI 서비스 요금제를 볼 때 놓치기 쉬운 항목</title>
+    <link>https://www.buupstory.kr/posts/ai-service-cost/</link>
+    <guid>https://www.buupstory.kr/posts/ai-service-cost/</guid>
+    <description>AI 서비스를 결제하기 전에 무료 체험, 사용량 제한, 좌석 단가, 업그레이드 조건을 확인하는 방법입니다.</description>
+    <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

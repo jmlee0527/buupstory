@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AI 활용 연구소 미리보기">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="70" y="70" width="1060" height="490" rx="16" fill="#ffffff" stroke="#BFDBFE"/>
+  <rect x="110" y="110" width="76" height="76" rx="16" fill="#2563EB"/>
+  <text x="148" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">AI</text>
+  <text x="110" y="245" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="#111827">AI 활용 연구소</text>
+  <text x="110" y="315" font-family="Arial, sans-serif" font-size="30" fill="#334155">AI를 더 쉽고 실용적으로 활용하는 방법을 공유합니다.</text>
+  <text x="110" y="390" font-family="Arial, sans-serif" font-size="24" fill="#2563EB">ChatGPT · 업무 자동화 · 개발 도구 · 생산성</text>
+</svg>

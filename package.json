@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node scripts/generate-pages.js",
+    "dev": "node scripts/generate-pages.js && node scripts/serve.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
