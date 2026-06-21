@@ -42,6 +42,9 @@ function shell({ title, description, canonical, type = "website" }) {
   const verification = site.googleSiteVerification
     ? `<meta name="google-site-verification" content="${escapeHtml(site.googleSiteVerification)}">`
     : "";
+  const adsense = site.adsenseClient
+    ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${escapeHtml(site.adsenseClient)}" crossorigin="anonymous"></script>`
+    : "";
   return `<!doctype html>
 <html lang="ko">
 <head>
@@ -61,6 +64,7 @@ function shell({ title, description, canonical, type = "website" }) {
   <meta name="twitter:title" content="${escapeHtml(title)}">
   <meta name="twitter:description" content="${escapeHtml(description)}">
   ${verification}
+  ${adsense}
   <link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml">
   <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.siteName)} RSS" href="/feed.xml">
   <link rel="stylesheet" href="/assets/css/styles.css">

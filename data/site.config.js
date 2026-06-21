@@ -14,6 +14,7 @@ const SITE_CONFIG = {
   email: "support@crev.kr",
   baseUrl: "https://www.buupstory.kr",
   googleSiteVerification: "",
+  adsenseClient: "ca-pub-2952705518797132",
   copyrightYear: "2026",
   editorialPrinciples: [
     "초보자가 실제로 따라 할 수 있는 흐름과 체크리스트를 우선합니다.",
